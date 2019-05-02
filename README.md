@@ -21,8 +21,6 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 ||นางสาว อมรรัตน์| กีรติพงศ์| | 61070259|
 
 
-รายงานโครงงาน วิชา Computer Programming เรื่อง CalDic(tionary)
-
  # เสนอ
 |ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 |:-:|:-:|
@@ -30,7 +28,7 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 
 
 ---
-
+รายงานโครงงาน วิชา Computer Programming เรื่อง CalDic(tionary)
 รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา การสร้างโปรแกรมคอมพิวเตอร์ Computer Programming (06016315)<br>
 หลักสูตรวิทยาศาสตร์บัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศ<br>
 ภาคเรียนที่ 2 ปีการศึกษา 2560<br>
