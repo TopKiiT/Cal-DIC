@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 |:-:|--|------|---------------|---------|
 ||นาย รพิรัตน์| แป้นบูชา| | 61070180|
 ||นาย พีรวิชย์| สาแก้ว| | 61070149|
-|![](img/puvit2.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
+|![https://www.facebook.com/Karatsugi.Kuraigi](img/puvit2.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
 ||นางสาว อมรรัตน์| กีรติพงศ์| | 61070259|
 
 
@@ -30,9 +30,11 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 
 
 ---
+
 รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา การสร้างโปรแกรมคอมพิวเตอร์ Computer Programming (06016315)<br>
 หลักสูตรวิทยาศาสตร์บัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศ<br>
 ภาคเรียนที่ 2 ปีการศึกษา 2560<br>
 คณะเทคโนโลยีสารสนเทศ<br>
 สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง<br>
+
 ---
