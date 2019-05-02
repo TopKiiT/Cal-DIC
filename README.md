@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 |:-:|--|------|---------------|---------|
 ||นาย รพิรัตน์| แป้นบูชา| | 61070180|
 ||นาย พีรวิชย์| สาแก้ว| | 61070149|
-||นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
+|![https://www.facebook.com/Karatsugi.Kuraigi](img/puvit.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
 ||นางสาว อมรรัตน์| กีรติพงศ์| | 61070259|
 
 
