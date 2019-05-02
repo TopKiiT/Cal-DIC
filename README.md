@@ -4,7 +4,7 @@
 # Installation
 ในส่วนของการติดตั้งโปรแกรมเพื่อใช้งาน ตัวเครื่องจำเป็นต้องติดตั้ง `GIMP Toolkit(GTK)`ในตัวเครื่อง โดยสามารถศึกษาวิธีการติดตั้งได้
 [ที่นี่](https://github.com/GtkSharp/GtkSharp/wiki/Installing-Gtk-on-Windows) จากนั้นก็ทำการ `git clone`  เพื่อทำการนำโปรเจ็คเข้าสู่คอมพิวเตอร์ก่อน
-โดยสามารถศึกษาวิธีการ วิธีการ clone repository [ที่นี่](https://help.github.com/articles/cloning-a-repository/)
+โดยสามารถศึกษาวิธีการ clone repository [ที่นี่](https://help.github.com/articles/cloning-a-repository/)
 หรือดาวน์โหลดเป็นไฟล์บีบอัดแล้วสามารถแยกไฟล์เพื่อใช้งานได้เลยโดยไม่ต้องมีขั้นตอนการติดตั้ง โดยคลิกที่ไฟล์ `CalDic.exe` เพื่อเรื่มใช้งาน
 # How to Use?
 วิธีการใช้เบื้องต้นนั้น ทางเราได้ทำการจัดทำคลิปวีดีโอขึ้นมาเพื่อแสดงการใช้งาน
