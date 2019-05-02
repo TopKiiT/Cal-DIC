@@ -1,0 +1,82 @@
+
+
+
+#maleLabel{
+	font-size: 30px;
+	font-family:Leonardo-Rounded Demo;
+	color: blue;
+
+}
+grid#myGrid>label:last-child {
+	font-size: 30px;
+	font-family:Leonardo-Rounded Demo;
+	color: pink; 		
+}
+#window,#window2,#window3{
+	background-image: url("background.png");
+	background-position: center;
+	background-repeat: repeat;
+	background-position: 0% 0%;
+	background-size: cover;
+}
+
+#myGrid>label{
+	font-family: PrintAble4U;
+	font-weight: bold;
+	font-size: 30px;
+}
+#myGrid>button{
+	
+	font-size: 15px;
+}
+assistant{
+	background-image: url("background.png");
+	background-position: center;
+	background-repeat: repeat;
+	background-position: 0% 0%;
+	background-size: cover;
+	
+}
+#test
+{
+	font-family: PrintAble4U;
+	font-weight: bold;
+	font-size: 30px;
+}
+#bmi{
+	font-size: 50px;
+	font-family:Leonardo-Rounded Demo;	
+}
+#box{
+	font-size: 18px;
+	font-weight: bold;
+	font-family:Leonardo-Rounded Demo;
+}
+
+#textlabel{
+	font-size: 20px;
+	color: gray;
+	font-family:PrintAble4U;
+}
+#recolabel{
+	font-size: 70px;
+	font-family:Leonardo-Rounded Demo;
+}
+#totalbox>label{
+	font-size: 75px;
+	font-family:Leonardo-Rounded Demo;
+}
+#total{
+	color: red;
+}
+#sumbox{
+	font-size: 70px;
+	font-family:PrintAble4U;
+}
+#sumbox>button{
+	color: red;
+}
+#adgrid{
+	font-size: 20px;
+	font-family:PrintAble4U;
+}
